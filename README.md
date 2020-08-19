@@ -19,6 +19,8 @@ Luis Alejandro Jaramillo R.
 
 4. Go to Codecademy, register and do the first two modules (JSX and React Components) of the following course: https://www.codecademy.com/learn/react-101
 
+![](img/LearnReactPart1.PNG)
+
 ## Part 2: Create React Components for the TODO App
 
 1. Create a new JavaScript file called *Todo.js* under the `src` folder and add the following code: 
