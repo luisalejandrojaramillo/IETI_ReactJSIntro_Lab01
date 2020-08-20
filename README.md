@@ -1,8 +1,21 @@
 # IETI React JS Intro, Lab 01
 Introduction to ReactJS.
 
-## Autor
+## Author
 Luis Alejandro Jaramillo R.
+
+## Running Instructions
+* Instalar la ultima version de "npm".
+* Clonar el repositorio y entrar al directorio.
+```
+git clone https://github.com/luisalejandrojaramillo/IETI_ReactJSIntro_Lab01 
+cd IETI_ReactJSIntro_Lab01
+```
+* Digitar estos comandos para iniciar el "npm".
+```
+npm i
+npm start
+```
 
 ## Part 1: Create a basic React application and understand React basics
 
